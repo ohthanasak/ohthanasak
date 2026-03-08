@@ -31,20 +31,15 @@
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                 🧠 Ambside AI Brain                     │
+│              🧠 AI-Powered Trading Systems              │
 │                                                         │
-│   📊 Data Layer ──→ 🤖 AI Pipeline ──→ 📡 Broadcast    │
-│   (MT5 + Python)    (5 AI Agents)      (100+ EA)       │
+│   📊 Market Data ──→ 🤖 AI Analysis ──→ 📡 Execution   │
 │                                                         │
-│   Agents:                                               │
-│   • Technical Analyst (Gemini Flash)                    │
-│   • News Analyst (Kimi K2.5)                            │
-│   • Pattern Recognition (Sonnet)                        │
-│   • Decision Maker (Opus)                               │
-│   • Risk Guardian (Sonnet) — VETO power 🛡️             │
-│                                                         │
-│   AI thinks once → broadcasts to ALL clients            │
-│   One brain, unlimited traders 🚀                       │
+│   • Multi-Agent AI Pipeline                             │
+│   • Real-time WebSocket Signal Broadcasting             │
+│   • MetaTrader 5 Expert Advisors (MQL5)                 │
+│   • Automated Risk Management                           │
+│   • Scalable to 100+ trading clients                    │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -89,14 +84,6 @@
 </div>
 
 <br>
-
-### 🏴‍☠️ Ambside Team
-
-| Agent | Role | Specialty |
-|-------|------|-----------|
-| ✨ **ที่รัก** (Tee Rak) | Lead Developer | MQL5 EA, FastAPI, Architecture |
-| 🍊 **นามิ** (Nami) | Data & Compile | MT5 Data, Testing, QA |
-| 🩺 **โทนี่** (Tony Chopper) | Review & Infra | Code Review, Proxmox, Security |
 
 <br>
 
