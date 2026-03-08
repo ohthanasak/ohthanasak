@@ -51,33 +51,43 @@
 **Languages & Core**
 
 <p>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>&nbsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++ / MQL5" title="C++ / MQL5" width="40" height="40" /></a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="40" height="40" /></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" /></a>&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=python&theme=dark" alt="Python" title="Python" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=js&theme=dark" alt="JavaScript" title="JavaScript" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=cpp&theme=dark" alt="C++ / MQL5" title="C++ / MQL5" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=typescript&theme=dark" alt="TypeScript" title="TypeScript" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=bash&theme=dark" alt="Bash" title="Bash" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=git&theme=dark" alt="Git" title="Git" width="50" height="50" />&nbsp;
 </p>
 
 **Backend & Database**
 
 <p>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="40" height="40" /></a>&nbsp;
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="40" height="40" /></a>&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="40" height="40" /></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="40" height="40" /></a>&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=nodejs&theme=dark" alt="NodeJS" title="NodeJS" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=flask&theme=dark" alt="Flask" title="Flask" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=postgresql&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=mysql&theme=dark" alt="MySQL" title="MySQL" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=websocket&theme=dark" alt="WebSocket" title="WebSocket" width="50" height="50" />&nbsp;
 </p>
 
 **Frontend & Tools**
 
 <p>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" /></a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="40" height="40" /></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40" /></a>&nbsp;
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40" /></a>&nbsp;
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40" /></a>&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=react&theme=dark" alt="React" title="React" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=tailwind&theme=dark" alt="TailwindCSS" title="TailwindCSS" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=html&theme=dark" alt="HTML5" title="HTML5" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=css&theme=dark" alt="CSS3" title="CSS3" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=vscode&theme=dark" alt="VS Code" title="VS Code" width="50" height="50" />&nbsp;
+</p>
+
+**DevOps & Infra**
+
+<p>
+<img src="https://iconic-api.onrender.com/icon?name=docker&theme=dark" alt="Docker" title="Docker" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=linux&theme=dark" alt="Linux" title="Linux" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=github&theme=dark" alt="GitHub" title="GitHub" width="50" height="50" />&nbsp;
+<img src="https://iconic-api.onrender.com/icon?name=github-actions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="50" height="50" />&nbsp;
 </p>
 
 </div>
