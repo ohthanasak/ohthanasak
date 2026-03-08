@@ -80,6 +80,17 @@
 <img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" width="64" />
 </div>
 
+**AI & LLM**
+
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/claude" alt="Claude" width="64" />
+<img src="https://iconic-api.onrender.com/dark/chatgpt" alt="ChatGPT" width="64" />
+<img src="https://iconic-api.onrender.com/dark/gemini" alt="Gemini" width="64" />
+<img src="https://iconic-api.onrender.com/dark/deepseek" alt="DeepSeek" width="64" />
+<img src="https://iconic-api.onrender.com/dark/cursor" alt="Cursor" width="64" />
+<img src="https://iconic-api.onrender.com/dark/copilot" alt="Copilot" width="64" />
+</div>
+
 **DevOps & Infra**
 
 <div style="display: flex; gap: 2px; align-items: center;">
